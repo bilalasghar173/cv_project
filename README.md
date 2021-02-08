@@ -8,5 +8,5 @@ make the agriculture system optimal and minimize the human
 input to save time and make more educated.
 
 # DataSet
-The Dataset consists of two directories called diseased and healthy. DataSet can be found here.
+The Dataset consists of two directories called diseased and healthy. DataSet can be found here.<br />
 https://github.com/spMohanty/PlantVillage-Dataset/tree/master/raw/color
