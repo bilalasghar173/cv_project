@@ -11,9 +11,17 @@ input to save time and make more educated.
 The Dataset consists of two directories called diseased and healthy. DataSet can be found here.<br />
 https://github.com/spMohanty/PlantVillage-Dataset/tree/master/raw/color
 
-#Flow of Code
+## Drive Link
+
+# Flow of Code
 1: Load Original Image <br />
 2: Convert image from RGB to BGR <br />
 3: Convert  image from BGR to HSV <br />
 4: Image Segmentation <br />
 5: Global Feature Descriptor. <br />
+6: Training Models
+
+# Accuracy
+75%
+
+
