@@ -11,7 +11,8 @@ input to save time and make more educated.
 The Dataset consists of two directories called diseased and healthy. DataSet can be found here.<br />
 https://github.com/spMohanty/PlantVillage-Dataset/tree/master/raw/color
 
-## Drive Link
+# Drive Link
+https://drive.google.com/drive/folders/1ciwdljambLCK_Ig1eQ_0WzsmyPlU12SC?usp=sharing
 
 # Flow of Code
 1: Load Original Image <br />
@@ -24,4 +25,5 @@ https://github.com/spMohanty/PlantVillage-Dataset/tree/master/raw/color
 # Accuracy
 75%
 
-
+# Final Results
+https://drive.google.com/drive/folders/1ciwdljambLCK_Ig1eQ_0WzsmyPlU12SC?usp=sharing
