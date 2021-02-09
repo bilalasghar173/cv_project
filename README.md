@@ -8,11 +8,10 @@ make the agriculture system optimal and minimize the human
 input to save time and make more educated.
 
 # DataSet
-The Dataset consists of two directories called diseased and healthy. DataSet can be found here.<br />
-https://github.com/spMohanty/PlantVillage-Dataset/tree/master/raw/color
+The Dataset consists of two directories called diseased and healthy. DataSet can be found <a href="https://github.com/spMohanty/PlantVillage-Dataset/tree/master/raw/color">here</a>.<br />
 
 # Drive Link
-<a href="https://drive.google.com/drive/folders/1ciwdljambLCK_Ig1eQ_0WzsmyPlU12SC?usp=sharing">Click Here</a>
+<a href="https://drive.google.com/drive/folders/1ciwdljambLCK_Ig1eQ_0WzsmyPlU12SC?usp=sharing">Click Here</a> to open drive link.
 
 # Flow of Code
 1: Load Original Image <br />
@@ -26,4 +25,4 @@ https://github.com/spMohanty/PlantVillage-Dataset/tree/master/raw/color
 75%
 
 # Final Results
-<a href="https://drive.google.com/drive/folders/1ciwdljambLCK_Ig1eQ_0WzsmyPlU12SC?usp=sharing">Click Here</a>
+<a href="https://drive.google.com/drive/folders/1ciwdljambLCK_Ig1eQ_0WzsmyPlU12SC?usp=sharing">Click Here</a> to open drive link.
