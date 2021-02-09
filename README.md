@@ -26,3 +26,4 @@ The Dataset consists of two directories called diseased and healthy. DataSet can
 
 # Final Results
 <a href="https://drive.google.com/drive/folders/1ciwdljambLCK_Ig1eQ_0WzsmyPlU12SC?usp=sharing">Click Here</a> to open drive link.
+<img src="https://drive.google.com/file/d/1ubMqP2XN6tWB72DhZhjm98w0qGNl8eo6/view?usp=sharing" />
